@@ -1,5 +1,6 @@
-## Hi there 👋
+## BlockStash Intelligence
 
+BlockStash is a data-driven platform that provides data, analytics, network visualization, and compliance tool for cryptocurrencies that assist in the surveillance and investigations of crypto-crime. Our Research Development focuses on blockchain understanding and crypto-crime intelligence.
 <!--
 
 **Here are some ideas to get you started:**
